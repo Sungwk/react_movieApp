@@ -10,9 +10,7 @@ function App() {
     <div>
       <h1>Hello</h1>
 
-      <Name name="강성욱" />
-      <Name name="성욱" />
-      <Name name="욱" />
+      <Name name="강성욱"/>
     </div>
   );
 }
